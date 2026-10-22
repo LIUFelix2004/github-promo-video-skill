@@ -1,0 +1,4 @@
+assets/
+*.mp4
+__pycache__/
+config.json
