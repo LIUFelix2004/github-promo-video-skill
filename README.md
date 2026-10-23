@@ -4,6 +4,8 @@
 
 **效果**：真实主页截图做封面，从横切面平躺远景动态立起到近景 → 三张 GitHub 白色仓库卡（Star 数字滚动计数、README 总结逐条滑入、技术标签）→ 纸条式结尾 + 大头像。GitHub 白色主色调，全片文字本地渲染——**零 AI 生成文字、零拼写错误、不出现无关品牌 logo**。
 
+![demo](demo.gif)
+
 ## 快速开始
 
 ```bash
@@ -32,7 +34,7 @@ python3 scripts/render_promo.py --config config.json --out out.mp4
 
 ## 配置说明
 
-见 [SKILL.md](SKILL.md) 的字段速览表，完整示例在 [examples/config.liufelix2004.json](examples/config.liufelix2004.json)。
+见 [SKILL.md](SKILL.md) 的字段速览表，完整示例在 [examples/config.liufelix2004.json](examples/config.liufelix2004.json)（2 张项目卡 + 1 张概览卡）和 [examples/config.yujunzhixue.json](examples/config.yujunzhixue.json)（3 张全是完整项目卡）。
 
 ## 注意
 
